@@ -91,7 +91,7 @@ If Brownlow wagers 4.6 dollars over the student's 1 dollar, then the odds would 
 ```{r}
 optimize
 ```
-
+Brownlow's earnings from 0:1 ratio to 10:1 ratio.
 
 
 
@@ -119,7 +119,7 @@ The number of students that tunes Brownlow's earnings the closest to 0 is 28 stu
 ```{r}
 optimize
 ```
-
+Brownlow's earning from 1 student to 637 students. 
 
 
 
